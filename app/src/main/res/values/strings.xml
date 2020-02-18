@@ -1,0 +1,502 @@
+<resources>
+    <string name="app_name">Tour Guide - Mumbai</string>
+    <string name="architecture">Architecture</string>
+    <string name="eat_and_drink">Eat and Drink</string>
+    <string name="shopping">Shopping</string>
+    <string name="gardens_and_parks">Gardens And Parks</string>
+    <string name="title_of_the_place">Title of the place</string>
+    <string name="address_of_the_place">Address of the place</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="goi_description">
+        "The Gateway of India is, without doubt, one of the most popular tourist hotspots of Mumbai."
+        "Sitting proudly on the Apollo Bunder, it overlooks the Arabian Sea. It is one of the defining"
+        "monuments of the city of Mumbai and was built in the year 1924.\n"
+
+        "\nThe construction was undertaken by the famous architect G Wittet, to commemorate the"
+        "visit of King George V and Queen Mary to Mumbai. The imposing structure of the monument is"
+        "a beautiful confluence of Indian, Arabic and Western architecture and has become a popular"
+        "tourist hub in the city. It is also the starting point of a number of ferry services that"
+        "ply to the historic Elephanta Caves."\n
+
+        "\nNicknamed \'Mumbai\'s Taj Mahal\', the foundation of this landmark was laid in 1911 and"
+        "it was inaugurated 13 years later in 1924. The structure in itself is a made of yellow "
+        "basalt and solid concrete and is embellished with numerous Muslim and Hindu motifs as well."
+        "The basalt arch of the Gateway served as the entry and exit access to India through "
+        "waterways before independence and was the exit point from where the last British ship left"
+        "India for England. There are statues of Swami Vivekananda and Chhatrapati Shivaji that have"
+        "been installed near the Gateway as well. The view from the sea of the Gateway complex, "
+        "especially at night is quite ethereal and beautiful. The Gateway of India is thus, not "
+        "only a historic artefact but an example of marvellous architecture in itself!\n"
+        "\nThe Gateway of India is, without doubt, one of the most popular tourist hotspots of Mumbai."
+        "Sitting proudly on the Apollo Bunder, it overlooks the Arabian Sea. It is one of the defining"
+        "monuments of the city of Mumbai and was built in the year 1924.\n"
+    </string>
+    <string name="cst_description">
+        "Chhatrapati Shivaji Terminus (CST), formerly known, Victoria Terminus, is a modern yet "
+        "archaic railway station in the bustling capital city of Maharashtra - Mumbai. The "
+        "marvellous structure is the perfect example of the Victorian-Gothic style of architecture"
+        "in India and was built in 1878. In fact, the railway station, which still functions as "
+        "usual, waas a World Heritage Site under UNESCO in 1997. The station is always bustling"
+        "with the sounds of the metro city and the locals. It is a bustling railway terminus, but"
+        "there are some corners of it that will make you feel like you have stepped into the pages"
+        "of British history.It is one of the most famous historical landmarks in the country that "
+        "is also the second most photographed monument in India.\n"
+        "\nChhatrapati Shivaji Terminus was constructed in 1887 and it currently functions as the"
+        "headquarters of the Central Railways. It is well-connected to all the parts of the country"
+        "as it serves as a station for long-distance as well as short-distance or commuter trains "
+        "which are often called local trains. The architecture of the terminus is what draws most "
+        "people to it. The night lights up the station and it looks even prettier.\n"
+        "\nIt was here that the famous song /'Jai Ho/' from Slumdog Millionaire and some marvellous "
+        "scenes for the Bollywood Movie Ra One were shot."
+    </string>
+    <string name="hajiali_description">
+        "Situated on the backdrop of a beautiful view of the Arabian sea is the shrine of Haji Ali,"
+        "dedicated to the wealthy merchant turned who gave up his worldly belongings and turned"
+        "into Muslim Sufi saint after a trip to Mecca. Haji Ali Dargah is located on a small islet"
+        "that is off the southern coast of Mumbai near Worli. People from all walks of life and"
+        "religions come here to seek blessings. The Dargah can only be accessed during the low"
+        "tides via a causeway that is surrounded by the sea on all sides. At night, the view of the"
+        "shrine lit up in the distance with nothing but the sea around it, is a divine sight.\n"
+        "\nBuilt of glass, the tomb is a beautiful illustration of the Indo-Islamic style of"
+        "architecture. A marble courtyard contains the central shrine. The tomb within the mosque"
+        "is roofed by a brocaded red and green cloth, supported by an exquisite silver frame and"
+        "marble columns. The main hall has marble pillars engraved with creative mirror work:"
+        "blue, green, yellow chips of glass arranged in varied designs and Arabic patterns which "
+        "spell the ninety-nine names of Allah. As per Islamic customs, there are different praying"
+        "rooms for ladies and gents."
+    </string>
+    <string name="mountmarry_description">
+        "Mount Mary Church is a Roman Catholic Church,dedicated to 'Virgin Mary', situated in"
+        "Mumbai. This ancient church, built in 1640 and then rebuilt in 1761, is also known as"
+        "\'The Basilica of Our Lady of the Mount\'. What makes this church even more beautiful is"
+        "that it is sited on top of a hill known as 'Sunderban Bandra', which overlooks the mighty"
+        "Arabian Sea. It is believed that the church has unbelievable healing powers and for this"
+        "reason, the church is herded by devotees every day. Some also say that those who sincerely"
+        "pray at the Mount Mary Church often get their wishes fulfilled. The 'Bandra Fair' or the"
+        "'Feast of Mount Mary' is a week-long celebration held every September at the Mount Mary"
+        "Church.\n"
+        "\nTourists from all over the world who visit Mumbai always make sure to visit this popular"
+        "church while in the city. The structure of Mount Mary Church is inspired by British style"
+        "of architecture. This church is admired for being positioned on top a hill 80m above sea"
+        "level that overlooks the Arabian Sea. But its structure, which is over 100 years old,"
+        "looks even more beautiful with its scenic surroundings. One can never forget the amazing"
+        "view of this church especially when the sun sets. Within the church, one can see the 16th"
+        "century statue of 'Our Lady'."</string>
+    <string name="nationalgallary_description">
+        "A paradise for art lovers, National Gallery of Modern Art (NGMA), Mumbai is a famous art"
+        "museum possessing a magnificent collection of paintings, sculptures and artefacts since"
+        "1996. The multitude of artwork present in this charismatic gallery has drawn millions of"
+        "visitors and left them awestruck. It is governed by the Department of Culture, Government"
+        "of India and has over the period become a popular tourist attraction as it very"
+        "convincingly depicts the modification of artwork in the field of visual and plastic arts.\n"
+        "\nA blend of art and culture, this gallery houses the artworks of phenomenal sculptors,"
+        "artists and painters including the legendary Pablo Picasso who is considered as the"
+        "epitome of art and painting. The oldest artwork is known to be around 160 years old."
+        "The ancient artefacts such as statues and mummies from Egypt have also a played a crucial"
+        "role in rousing the curiosity of the visitors. The National Gallery of Modern Art also"
+        "organises various art exhibitions which provide an intriguing platform to both the artists"
+        "and the art lovers as the artists get a remarkable opportunity to showcase their talent"
+        "while the art lovers can explore and quench their thirst for art. The gallery is located"
+        "near Regal Cinemas in Colaba, South Mumbai. It showcases some of the oldest artworks,"
+        "dating back to 1857 and is considered one of the best in India."
+    </string>
+    <string name="pagoda_description">
+        "The Global Vipassana Pagoda has been constructed on 13 acres of land and is an"
+        "illustration of the traditional Buddhist architecture with traditional Burmese designs."
+        "The Burmese designs have been included in the structure as a sign of respect and gratitude"
+        "towards Myanmar for preserving the practice of Vipassana Meditation. The dome-shaped"
+        "pagoda is a combination of ancient and modern Indian technology, and its shape is a"
+        "replica of the Shwedagon Pagoda (Golden Pagoda), Myanmar, which makes the structure strong"
+        "enough to stay put for at least a thousand years.The entire structure is covered in gold"
+        "coloured paint, and the spire or the shikhara of the pagoda is covered in real gold that"
+        "was donated by the Burmese. The spire is topped with a decorative piece that resembles an"
+        "umbrella. The humongous inner dome enables 8000 people to practice Vipassana meditation"
+        "together at one time. The entrance doors are made of wood that has been hand-carved"
+        "intricately in Myanmar. The foundation of the structure is made of Basalt rocks, and the"
+        "dome is made from sandstone that was brought from Rajasthan. Each sandstone block weighs"
+        "around 600 to 700 kilograms and is secured in place with the help of bricks designed to"
+        "interlock.\n"
+        "\nThese uniquely designed bricks and lime mortar hold the sandstone in place and help the"
+        "structure stand for several years. The large pillar-less dome, in the centre, has a height"
+        "of 29 meters. The entire structure of the pagoda is 96.12 meters tall. The interior of the"
+        "pagoda is hollow and serves the purpose of a huge meditation hall; which covers an area of"
+        "6000 square metres. The top of the pagoda is completed with a large crystal."
+    </string>
+    <string name="sealink_description">
+        "Bandra Worli Sea Link is one of the modern architectural spectacles of India which was"
+        "built by Hindustan Construction Company, a project initiated by Maharashtra State Road"
+        "Development Corporation (MSRDC). This architectural marvel was built by a joint effort of"
+        "engineers from India, Egypt, China, Canada, Switzerland, Britain, Hong Kong, Thailand,"
+        "Singapore, Philippines, Indonesia and Serbia. Interestingly, Bandra Worli Sea Link was the"
+        "first cable-stayed bridge to have been constructed over the open Indian seas.\n"
+        "\nOpened for"
+        "the public in June 2009, this link comprises of pre-stressed concrete-steel viaducts on"
+        "either side, which are heaviest precast segments to be built in India. Due to the geology"
+        "of the seabed, the pylon towers used in the bridge have a unique and complex geometry"
+        "while the main span of the structure is the longest concrete deck to have been attempted"
+        "successfully. The largest pylon to have been used here measures at 128 metres with"
+        "gradually decreasing heights as we move away. The Bandra Worli Sea Link is the first"
+        "project in Mumbai which has been constructed using seismic arresters, making it resistant"
+        "to earthquakes measuring up to 7.0 on the Richter scale. The construction of the bridge"
+        "reduced the travel time to 7-10 minutes which used to take 45-60 minutes earlier.\n"
+        "\nInaugurated by UPA chairperson, Smt. Sonia Gandhi, this Sea Link plays a big role in the"
+        "progress of making Mumbai a world-class city. Apart from reducing the travel time between"
+        "Bandra and Worli tremendously, it was also proposed to link the western suburbs of Mumbai"
+        "with Nariman Point, the main business centre. Visit this wonder to admire its might."
+    </string>
+    <string name="arth_description">
+        "Arth is designed to enchant its audience. The rustic-looking, fashionable eatery is spread"
+        "across two floors: Lounge on the lower floor, and a dining area on the upper floor. The"
+        "glossy interiors of the restaurant, with its large chandeliers, black and white flooring"
+        "and grey velvet couches, are designed by Gauri Khan. The food at Arth is presented with"
+        "flair, and the bar is well-stocked with top-of-the-chart liquor. The Oriyali Deomali"
+        "Mutton Curry (smoked tender mutton pieces on jasmine rice) and Charcoal Bharta are the"
+        "highlights of the menu.\n\n"
+        "\nWhat to have: Pick and Bip Pepper Crab, Oriyali Deomali Mutton Curry.\n"
+        "\nPerfect for: Fine Dining, Weekend Night Out\n\n"
+    </string>
+    <string name="aaswad_description">
+        "If there was one breakfast dish that was synonymous to every Mumbaikar, be it an upscale"
+        "townie or a resident of Marathi heartlands of Dadar and Worli, it would be the Misal Pav."
+        "If we had to name one restaurant that serves this  sev-curry dish better than anyone else,"
+        "it would be Aswad in Dadar. This all-vegetarian Maharashtrian restaurant is frequented by"
+        "lovers of spicy, inventive Maharashtrian and Konkan cuisine. Although, getting a table"
+        "here would require patience and waiting in a long queue, it is totally worth it. The menu"
+        "at Aaswad is extensive and inexpensive.\n"
+        "\nWhat to have: Misal Pav, Sabudana Vada, Kothambir Vadi, Thali Peeth.\n"
+        "\nPerfect for: Family Outing, Local Delights\n\n"
+    </string>
+    <string name="dakshinayan_description">
+        "Although bigger and more expansive than its Walkeshwar outlet, Dakshinayan’s Juhu branch"
+        "maintain the authentic taste of its vegetarian Tamilian dishes. The decor of the place is"
+        "simplistic, with marble top tables and comfortable leather settees. The menu here is quite"
+        "inexpensive (the average price for dishes being Rs 70). The Tamilian fare at Dakshinayan"
+        "is made to perfection, with fluffy-firm idlis, tangy lemon sevai, flavoursome Bisi Bele"
+        "Bhaath, Thayir Sadam and more authentic dishes.\n"
+        "\nWhat to have: Pongal, Molagapodi, Thayir Sadam, Ragi Dosai\n"
+        "\nPerfect for: Budget Eats\n\n"
+    </string>
+    <string name="gajalee_description">
+        "Mumbaikars swear by the taste of this seafood restaurant. Years have passed by changing"
+        "the milieu of the city, but the taste of Gajalee’s evergreen dishes have persisted and"
+        "outshined the ever-evolving ethos of the city. Even though the restaurant is owned by a"
+        "Mangalorean couple, they specialise in cooking seafood of the Maharashtra coast. Each dish"
+        "is cooked with freshly grounded masalas. Gajalee is the best restaurant in the city to eat"
+        "crabs. The folks claim to have invented Maharashtra’s favourite Bombil Fry, and even"
+        "though it may or may not be true, they must certainly be credited for the popularity of"
+        "the dish.\n"
+        "\nWhat to have: Fried Bombil, Crab, Tandoori Fish.\n
+        "\nPerfect for: Seafood\n\n"
+    </string>
+    <string name="delhi_darbar_description">
+        "Jaffer Bhai’s Delhi Darbar is a well-known destination amongst meat lovers in the city,"
+        "but it is their delicious biryani that earns them a spot on our list of the best"
+        "restaurants in Mumbai. The biryani here (available with mutton, chicken, eggs or prawns)"
+        "is a perfect blend of long white rice grains, smoked meat pieces and aromatic spices,"
+        "condiments and herbs. Each bite of the biryani leaves a lasting imprint on your taste"
+        "buds. Jaffer Bhai’s juicy tandoor-grilled kebab and tikkas have also set a benchmark of"
+        "unwavering quality and taste.\n"
+        "\nWhat to have: Reshmi Kebab, Boti Kebab, Mutton or Chicken Biryani, Dabba Ghost.\n"
+        "\nPerfect for: Meat Lovers, Biryani\n\n"
+    </string>
+    <string name="shamiana_description">
+        "Shamiana was the first 24-hour coffee shop in Mumbai and it opened its door to the"
+        "customers in 1973. The restaurant which once oozed an elitist colonial vibe has been"
+        "restored into a more Indian-style eatery with drapes from Saurashtra and Rajasthan. The"
+        "servers here too are dressed in casual Indian clothing (pyjama- kurta). The live kitchen"
+        "and dessert counter add buzz to the otherwise calmness of the restaurant. The menu boasts"
+        "of multi-cuisine fare including a Taj Autograph menu (a melange of signature dishes from"
+        "Taj Hotels around the world), Bombay-style street food and European comfort food. The"
+        "restaurant is a popular buffet venue, but ordering from the a-la-carte menu might prove"
+        "better off. The robust Kheema Pao, spicy Mutton Hamburger, Prawn Patio and Pav Bhaji are"
+        "a few winners from the menu.\n"
+        "\nWhat to have: Bunny Chow, Paav Bhaji.\n"
+        "\nPerfect for: Buffet, Late-Night Bites\n\n"
+    </string>
+    <string name="thaker_description">
+        "Nestled inside the busy streets of Kalbadevi, Shree Thaker Bhojanalay presents an epitome"
+        "of the thali experience in Mumbai. Brisk servers fill the plates with traditional"
+        "Rajasthani and Gujarati food, served with diverse accompaniments. The ghee-laden Dal Baati"
+        "Churma, spongy Dhoklas and silken Kadhis here are sure to please you.\n"
+        "\nWhat to have: Dal Baati Churma, Gujarati Thali, Farsaan, Dhokla, Kadhi.\n"
+        "\nPerfect for: Thali, Vegetarians\n\n"
+    </string>
+    <string name="bombay_canteen_description">
+        "Paying homage to the erstwhile bungalows of Bombay, Floyd Cardoz’s latest venture: The"
+        "Bombay Canteen is designed like an old Bombay home with verandas, a central dining area"
+        "and a high ceiling. The menu here is divided into chota (appetisers), bada (mains),"
+        "patiala (large plates) and canteen lunch (special lunch menu). Each dish here is inspired"
+        "from regional Indian fare, and brought to your table with an added twist (pork ribs served"
+        "with theplas, arbi based sevpuri and so on). Old classics like eggs benedict"
+        "(named Kejriwal Toast) and dabeli (Bombay-style street food) taste new and refreshing.\n"
+        "\nWhat to have: Pork Vindaloo with Methi Thepla Tacos, Chinese Seafood Bhel.\n"
+        "\nPerfect for: Dinner, Family Outing\n\n"
+    </string>
+    <string name="toast_tonic_description">
+        "Toast and Tonic breaks the distinguished monotony of the area with its laidback vibe and"
+        "vibrant wood-panelled decor. The food menu is influenced by a variety of cuisines"
+        "including French, Latin American, Asian, Italian and Japanese. Although the food is"
+        "inspired from international fare, its allegiance to Indian roots remains inextricable with"
+        "dishes made with regional spices and local ingredients. The bajra-based Italian Gnocchi"
+        "and Ragi and Bajra Tacos are worth trying. The restaurant truly is made for connoisseurs"
+        "of the world cuisine and those who do not shy away from experimenting.\n"
+        "\nWhat to have: Burratta, Naga Chilli Wings, Asparagus Rissotto.\n"
+        "\nPerfect for: World Cuisine, Post Work Drinks\n\n"
+    </string>
+    <string name="trishna_description">
+        "Tucked in the by-lanes of Mumbai’s commercial district, this 25-year-old seafood joint"
+        "attracts a large number of locals and foreign patrons in search of plump crustaceans and"
+        "fish dishes. Trishna’s menu predominantly features Mangalorean dishes, but a few dishes"
+        "here are influenced by Hyderabadi cuisine. It is the best eatery to savour the robust"
+        "flavours of South Indian seafood like the Chettinad Crab, Prawn Gassi and Surmai fish."
+        "Ask your waiters for marrow spoons and order the crab crackers. Each dish here will leave"
+        "your taste buds enchanted with their buttery, garlicky flavours and distinct preparation"
+        "style. Getting a seat here may turn out be strenuous as the restaurant is always packed"
+        "with seafood lovers.\n"
+        "\nWhat to have: Prawns Koliwada, Bombil Fry, Hyderabadi Pomfret, Jumbo Prawns.\n"
+        "\nPerfect for: Alone Time, Hangout\n\n"
+    </string>
+    <string name="book_street_description">
+        "Love reading? Don't miss visiting Book Street, as it's fondly called by locals, where"
+        "street vendors pile new and secondhand books along the pavement. There's everything from"
+        "academic texts to poetry, including rare publications and commercial paperback novels."
+        "The vendors are very knowledgeable and well-informed too. Don't be afraid to ask them if"
+        "you have certain interests or favorite authors. A lot of the books are sourced from"
+        "bookstores that want to get rid of old stock, so they're bargain priced.\n"
+        "\nLocation: Between Flora Fountain and Chhatrapati Shivaji Terminus (Victoria Terminus)"
+        "railway station, Fort, south Mumbai.\n"
+        "\nOpening Hours: 10 a.m. to 8.30 p.m.\n"
+        "\nWhat to Buy: Books.\n\n"
+    </string>
+    <string name="chor_bazar_description">
+        "Chor Bazaar is nestled in the heart of Mumbai's main Muslim district. This iconic market"
+        "has a history spanning more than 150 years. Its name means "thieves market", but this was"
+        "derived from the British mispronunciation of the its original name of Shor Bazaar,"
+        ""noisy market". Eventually stolen goods started finding their way into the market,"
+        "resulting in it living up to its new name! Read more about Chor Bazaar and what's up for"
+        "grabs.\n"
+        "\nLocation: Mutton Street, between SV Patel and Moulana Shaukat Ali Roads, near Mohammad"
+        "Ali Road in south Mumbai.\n"
+        "\nOpening Hours: Daily 11 a.m. until 7.30 p.m., except Friday. The Juma Market is held"
+        "there on Fridays.\n"
+        "\nWhat to Buy: Antiques, bronze items, vintage items, trash and treasure.\n\n"
+    </string>
+    <string name="colaba_causeway_description">
+        "The everyday carnival of the Colaba Causeway market is a shopping experience like no other"
+        "in Mumbai. Geared especially towards tourists, that infamous Indian saying of 'sab kuch"
+        "milega' (everything is possible) certainly applies at this market. Dodge persistent"
+        "balloon and map sellers, as you meander along the sidewalk and peruse the stalls. Want"
+        "your name written on a grain of rice? That's possible too. If you need a break from"
+        "shopping, pop into Leopold's Cafe or Cafe Mondegar, two well known Mumbai hangouts.\n"
+        "\nLocation: Colaba Causeway, south Mumbai.\nOpening Hours: Daily from morning until night.\n"
+        "\nWhat to Buy: Handicrafts, books, junk jewelry, crystals, brass items, incense, clothes.\n\n"
+    </string>
+    <string name="crawford_market_description">
+        "Hectic Crawford Market (officially renamed Mahatma Jyotiba Phule Mandai) is an old-style"
+        "market, housed in an historic colonial building. It specializes in wholesale fruit and"
+        "vegetables but sells an array of other items, including imported food and toys. It's also"
+        "got an entire section devoted to pets of all shapes, sizes and breeds.\n"
+        "\nLocation: Lokmanya Tilak Marg, Dhobi Talao, Fort area, south Mumbai. It's near"
+        "Chhatrapati Shivaji Terminus (Victoria Terminus) railway station.\n"
+        "\nOpening Hours: Daily from morning until night, except Sunday. Open mornings only on"
+        "Sundays.\n"
+        "\nWhat to Buy: Fruit, vegetables, spices, food, flowers, birds, fish, and other pets.\n\n"
+    </string>
+    <string name="flower_market_description">
+        "Another attraction for early risers and an important part of Mumbai's infrastructure,"
+        "Dadar flower market is the largest wholesale flower market in the city. Its hundreds of"
+        "stalls sell flowers to local street vendors who use them to make garlands used in worship,"
+        "as well as to wedding decorators and event managers. The market comes alive before sunrise"
+        "when delivery trucks from all over the state arrive laden with an abundance of beautiful"
+        "blooms. Mumbai Magic includes Dadar flower market on this Good Morning Mumbai tour.\n"
+        "\nLocation: Next to Dadar railway station. Tulsi Pipe Road, between Dadar and Parel, in"
+        "central south Mumbai.\n"
+        "\nOpening Hours: Most of the action happens from about 4 a.m. to 9 a.m., although the"
+        "market is open all day. It's particularly busy during festivals, especially Dussehra.\n"
+        "\nWhat to Buy: Fresh flowers.\n\n"
+    </string>
+    <string name="leather_market_description">
+        "A lot of people automatically associate Mumbai's notorious Dharavi slum with poverty and"
+        "misery. However, this is actually very ignorant and insulting. While the conditions are"
+        "poor, Dharavi is in fact home to many flourishing small-scale industries. The leather"
+        "industry is the most dominant. It's the second largest of its kind in India and it exports"
+        "across the world. Quality genuine leather goods can be purchased from more than 200 shops"
+        "at Dharavi and the prices are attractive. High Design is a leading store. Do bargain to"
+        "get the best price.\n"
+        "\nLocation: 90 Feet Road and adjoining Sion-Bandra Link Road, Dharavi, Sion, central"
+        "Mumbai.\n"
+        "\nOpening Hours: Daily from 11 a.m. to 9 p.m.\n"
+        "\nWhat to Buy: Leather jackets, bags, backpacks, wallets, belts, shoes.\n\n"
+    </string>
+    <string name="fashion_street_description">
+        "Fashion Street is literally just that, A street lined with fashion! There are about 150"
+        "stalls there. The market mainly attracts teenagers and college students, who come to grab"
+        "the latest western clothes and fake brand names at cheap prices.\n"
+        "\nLocation: MG Road, south Mumbai. Near Metro Cinema and Chhatrapati Shivaji Terminus"
+        "(Victoria Terminus) railway station, opposite Azad Maidan.\n"
+        "\nOpening Hours: Daily from morning until night.\n"
+        "\nWhat to Buy: Clothes, shoes, belts.\n\n"
+    </string>
+    <string name="kala_ghoda_art_description">
+        "The leafy pavement on either side of the Jehangir Art Gallery in Mumbai's Kala Ghoda"
+        "(Black Horse) Arts Precinct is bordered with the works of promising young artists, who"
+        "gather there to exhibit and sell them. The great thing about the Kala Ghoda pavement"
+        "gallery is that you can interact with the artists to learn about their techniques, and"
+        "even see them in action.\n"
+        "\nLocation: MG Road, Fort, south Mumbai.\n"
+        "\nOpening Hours: Daily from around 11 a.m. until 7 p.m.\n"
+        "\nWhat to Buy: Everything from portraits to religious paintings.\n\n"
+    </string>
+    <string name="linking_road_description">
+        "A fusion of modern and traditional, and East meets West, in one of Mumbai's hippest"
+        "suburbs. Here streets stalls contrast with brand name shops, and you'll find a local"
+        "Indian roadside food vendor on one side of the road and a Kentucky Fried Chicken outlet"
+        "on the other. The street stalls tend to be grouped together according to the type of goods"
+        "they sell. If you visit this market on a Sunday, be prepared for the crowds! See what's"
+        "up for grabs on Linking Road.\n"
+        "\nLocation: Linking Road, Bandra West (starts from Waterfield Road intersection).\n"
+        "\nOpening Hours: Daily from 10 a.m. until 10 p.m.\n"
+        "\nWhat to Buy: Indian traditional clothes, children's clothes, shoes, bags, belts,"
+        "fashion accessories.\n\n"
+    </string>
+    <string name="sassoon_fish_market_description">
+        "If you don't mind getting up really early, Sassoon Docks is a fascinating place to"
+        "experience local life in the morning when fishing trawlers return and get unloaded."
+        "Mumbai's indigenous fishing community, the Kolis, were the original inhabitants of the"
+        "city long before it was developed. About 1,500 trawlers operate from the docks and they"
+        "bring in about 20 tonnes of fish daily! It's sold in spirited wholesale fish auctions."
+        "This No Footprints' Mumbai by Dawn tour is highly recommended and includes the fish market.\n"
+        "\nLocation: Azad Nagar, Colaba, south Mumbai. Follow Colaba Causeway (Shahid Bhagat Singh"
+        "Road) and you'll come across it.\n"
+        "\nOpening Hours: From about 5 a.m. to 9.30 a.m.\n"
+        "\nWhat to Buy: Fish.\n\n"
+    </string>
+    <string name="zaveri_bazar_description">
+        "Zaveri Bazaar, Mumbai's renowned gold market, is one of the oldest and largest gold"
+        "markets in India. It accounts for more than half of the country's gold trade and has"
+        "thousands of shops, some of which are centuries old. Many of the buildings look"
+        "dilapidated and outdated but they're full of riches. Read up on how to buy gold in India"
+        "and how to buy gemstones in India before going there. In addition, be aware that some"
+        "shops do sell fake items.\n"
+        "\nLocation: Between Crawford Market and Mumbadevi temple. From Crawford Market, walk along"
+        "Sheik Memon Street leading to Jama Masjid.\n"
+        "\nOpening Hours: Daily from morning until night, except Sundays.\n"
+        "\nWhat to Buy: Indian-style gold, platinum and diamond jewelry. Silver and imitation"
+        "jewelry are also available.\n\n"
+    </string>
+    <string name="national_park_description">
+        "Sanjay Gandhi National Park (SGNP) has always been the ideal picnic or weekend break-away"
+        "destination for Mumbaikars in search of some respite from the chaos and pressures of this"
+        "densely populated metropolis. Be it a boat ride in the artificial lake near the main gate"
+        "or joy ride in the hugely famous mini train or the ‘van rani’, visitors throng these"
+        "attractions by the thousands on an ideal weekend. Some walk upto the Gandhi Tekdi and"
+        enjoy the sky scape around the immediate vicinity."
+        "\n103 sq.km. of pure wilderness in the heart of Mumbai city and surrounded by a population of 20 million people"
+        "\nPart of the Western Ghats biodiversity, forming roughly 20 per cent of Mumbai’s geographical area\n"
+        "\nHome to more than:\n"
+        "254 species of birds\n"
+        "40 species of mammals\n"
+        "78 species of reptiles and amphibians\n"
+        "150 species of butterflies\n"
+        "Over a staggering 1,300 species of plants.\n"
+        "\nConstructed way back in the 19th century, the Vihar (1860) and Tulsi (1868) Lakes are located within the forests of SGNP. In fact, the need for a protected area like SGNP arose due to the pertinent need of protecting the water catchments of these 2 lakes which were created so as to supply drinking water to the city of Mumbai, which they continue to do so even today! Apart from the supply, these water bodies are places of immense natural beauty; they also harbor a thriving population of mugger crocodiles and are throbbing with migratory bird life throughout the year.\n"
+        "\nSituated within the national park is a archeological complex of some 160 rock-cut caves popularly known as the ‘Kanheri Caves’. The caves are carved from basalt rock and date from the 1st century BCE to the 10th century CE. Kanheri is derived from Sanskrit word Krishnagiri, which literally means black mountain. Visitors can view the magnificent relics of Buddha and the Bodhisattvas and walk along the pillared corridors of the prayer halls chiseled out in the rocky outcrop. There is also an ancient water storage and management system for hermits who used to live in the caves, which is worth studying and emulating in modern times.\n\n"
+    </string>
+    <string name="mindspace_description">
+        "BMC Garden is a 1,200 acres park which includes a wonderful garden along with recreational"
+        "grounds and playgrounds. A perfect place for short picnics, kids love to come and play in"
+        "the children’s area here, where a number of rides and swings are placed. The garden also"
+        "houses statues of Jawaharlal Nehru and Subhash Chandra Bose. Walk along the park and feel"
+        "the freshness and energy flowing in you, providing perfect retreat from the hassles of"
+        "daily life.\n\n"
+    </string>
+    <string name="kamla_nehru_description">
+        "A small park in the attraction studded Malabar Hill, Kamala Nehru Park is one of the best"
+        "places to be in Mumbai on a cool evening. You can enjoy a game of ball in the park with"
+        "your family or take a long romantic walk with your loved one, and when the sun sets and"
+        "lights come on, there's no place in the City of Dreams which beats the views from this"
+        "place.\n"
+        "\nOne of the most strategic places to get that perfect shot of the Queen's Necklace"
+        "(Marine Drive), if you happen to be here on a day of slight drizzle, you will surely have"
+        "one of your most magical experiences of Mumbai. Don't undermine the warm embrace of nature,"
+        "this might just be what you need after a hard day at work or a tiring day of sightseeing"
+        "to pull your spirits right back up!\n\n"
+    </string>
+    <string name="jijamata_udyan_description">
+        "These are the perfectly manicured terraced gardens, situated on the slopes of the Malabar"
+        "Hill, located just opposite the Kamala Nehru Park. Hanging Garden provides a calming and"
+        "panoramic view of sunset over the Arabian Sea and house many hedges that have been carved"
+        "into various animal shapes. Laid out in 1881 over the main Mumbai reservoir, it is"
+        "believed that it was built to protect the water from the potential contaminating"
+        "activities of the nearby Towers of Silence.\n"
+        "\nThe Hanging Garden in Mumbai is an ideal place for a family outing, especially if you"
+        "have kids, given is vast open area where they can play and run around freely. Take a"
+        "stroll in the garden, sit and relax away from the bustling city life or just simply admire"
+        "the skill used on the hedges to transform them into work of art. If you love photography"
+        "then this is the place to be to make use of your creative, photography skills. Also, once"
+        "you get tired of walking and are hungry, try the roadside channa kurmura, its really yummy."
+    </string>
+    <string name="hanging_garden_description">
+        "The Hanging Gardens, in Mumbai, also known as Pherozeshah Mehta Gardens, are terraced"
+        "gardens perched at the top of Malabar Hill, on its western side, just opposite the Kamala"
+        "Nehru Park. They provide sunset views over the Arabian Sea and feature numerous hedges"
+        "carved into the shapes of animals. The park was laid out in 1881 by Ulhas Ghapokar over"
+        "Bombay's main reservoir, some say to cover the water from the potentially contaminating"
+        "activity of the nearby Towers of Silence. When seen from the air, the walkway inside the"
+        "park (Hanging Gardens Path), spell out the letters PMG (Pherozeshah Mehta Gardens)"
+        "in cursive."
+    </string>
+    <string name="chhota_kashmir_description">
+        "A relatively unknown park which has served as a scenic background for many Bollywood songs,"
+        "the Chhota Kashmir Park is tucked away inside the vast acres of parkland in Aarey Milk"
+        "Colony. It is a great family destination and one of the few places in Mumbai where you can"
+        "boat. This place has attractive gardens, pretty and colorful flowers, a lotus pond, and"
+        "plenty of cozy niches to relax and laze around.\n"
+        "\nThis one is a perfect pick if you are looking for a nice, quiet corner for yourself away"
+        "from the concrete jungle of the city and the scenic natural beauty of this park is a huge"
+        "draw for nature lovers!\n\n"
+    </string>
+    <string name="hiranandani_garden_description">
+        Living up to the name, ‘Nirvana’ which means a transcendent mind state with blissful feeling where a person feel extreme peaceful, calmed soul and as in Buddhism it means ‘Release from all Karma and Cycles of births’. It is one of the best gardens and parks on Mumbai. Actually a blessing inside Hiranandani Powai known for classy residency with beautiful skylines with one of the best lifestyles. Talking about Nirvana Park attractions, The 4 acres of natures beauty is an artificially developed garden near Central Avenue which now has tall trees which gives ample shade to whole park premise.
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="gate_way_of_india">Gate Way Of India</string>
+    <string name="cst_station">CST Station</string>
+    <string name="haji_ali_dargah">Haji Ali Dargah</string>
+    <string name="mount_marry_church">Mount Marry Church</string>
+    <string name="national_gallary_of_modern_arts">National Gallary Of Modern Arts</string>
+    <string name="global_vipassana_pagoda">Global Vipassana Pagoda</string>
+    <string name="bandra_worli_sea_link">Bandra-Worli Sea Link</string>
+    <string name="arth_restaurant_and_lounge">Arth Restaurant And Lounge</string>
+    <string name="aaswad">Aaswad</string>
+    <string name="dakshinayan_restaurant">Dakshinayan Restaurant</string>
+    <string name="gajalee">Gajalee</string>
+    <string name="jaffer_bhai_s_delhi_darbar">Jaffer Bhai\'s Delhi Darbar</string>
+    <string name="shamiana">Shamiana</string>
+    <string name="shree_thaker_bhojanalay">Shree Thaker Bhojanalay</string>
+    <string name="the_bombay_canteen">The Bombay Canteen</string>
+    <string name="toast_and_tonic">Toast And Tonic</string>
+    <string name="trishna">Trishna</string>
+    <string name="book_street">Book Street</string>
+    <string name="chhor_bazar">Chhor Bazar</string>
+    <string name="colaba_causeway">Colaba Causeway</string>
+    <string name="crawford_market">Crawford Market</string>
+    <string name="dadar_flower_market">Dadar Flower Market</string>
+    <string name="dharavi_leather_market">Dharavi Leather Market</string>
+    <string name="fashion_street">Fashion Street</string>
+    <string name="kala_ghoda_art_plaza">Kala Ghoda Art Plaza</string>
+    <string name="linking_road">Linking Road</string>
+    <string name="sassoon_docks_fish_market">Sassoon Docks Fish Market</string>
+    <string name="zaveri_bazaar">Zaveri Bazaar</string>
+    <string name="sanjay_gandhi_national_park">Sanjay Gandhi National Park</string>
+    <string name="mindspace_bmc_garden">Mindspace BMC Garden</string>
+    <string name="kamla_nehru_park">Kamla Nehru Park</string>
+    <string name="jijamata_udyan">Jijamata Udyan</string>
+    <string name="hanging_garden">Hanging Garden</string>
+    <string name="chhota_kashmir">Chhota Kashmir</string>
+    <string name="hiranandani_garden">Hiranandani Garden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

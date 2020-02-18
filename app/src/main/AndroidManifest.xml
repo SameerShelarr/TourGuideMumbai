@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tourguide_mumbai">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HiranandaniGarden" android:label="Hiranandani Garden" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ChhotaKashmir" android:label="Chhota Kashmir" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".HangingGarden" android:label="Hanging Garden" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".JijaMataUdyan" android:label="Jijamata Udyan" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".KamalaNehruPark" android:label="Kamala Nehru Park" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Mindspace" android:label="Mindspace BMC Garden" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".NationalPark" android:label="Sanjay Gandhi National Park" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ZaveriBazar" android:label="Zaveri Bazar" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".SassoonDocks" android:label="Sassoon Docks Fish Market" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".LinkingRoad" android:label="Linking Road" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".KalaGhodaArt" android:label="Kala Ghoda Art Plaza" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".FasionStreet" android:label="Fasion Street" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".DharaviLeatherMarket" android:label="Dharavi Leather Market" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".DadarFlowerMarket" android:label="Dadar Flower Market" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".CrawfordMarket" android:label="Crawford Market" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ColabaCauseway" android:label="Colaba Causeway" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ChorBazar" android:label="Chor Bazar" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".BookStreet" android:label="Book Street" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Trishna" android:label="Trishna" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ToastAndTonic" android:label="Toast And Tonic" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".BombayCanteen" android:label="The Bombay Canteen" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ThakerBhojanalay" android:label="Shree Thaker Bhojanalay" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Shamiana" android:label="Shamiana" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".DelhiDarbar" android:label="Zaffer Bhai's Delhi Darbar" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Gajalee" android:label="Gajalee" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Dakshinayan" android:label="Dakshinayan" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Aaswad" android:label="Aaswad" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Arth" android:label="Arth Restaurant" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".SeaLink" android:label="Bandra - Worli Sea Link" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".Pagoda" android:label="Global Vipassana Pagoda" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".NationalGallary" android:label="National Gallary Of Modern Arts" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".MountMaryChurch" android:label="Mount Mary Church" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".HajiAliDargah" android:label="Haji Ali Dargah" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".CSTStation" android:label="CST Station" android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".GateWayOfIndia"  android:parentActivityName=".MainActivity" />
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

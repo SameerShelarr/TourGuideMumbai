@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:padding="4dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:layout_marginBottom="4dp"
+            android:background="@drawable/shadow">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:id="@+id/main_image_view"
+                android:layout_height="300dp"
+                android:src="@drawable/gatewayofindia"
+                android:scaleType="centerCrop"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/main_text_view"
+                android:textSize="30sp"
+                android:padding="8dp"
+                android:background="#2A000000"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_alignBottom="@+id/main_image_view"
+                android:text="@string/gate_way_of_india"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/description_text_view"
+            android:padding="4dp"
+            android:textSize="20sp"
+            android:background="@drawable/shadow"
+            android:text="@string/goi_description" />
+
+    </LinearLayout>
+
+</ScrollView>
